@@ -17,3 +17,19 @@ Here are examples of experimental vs theorical (simulation) results:
 Experimental (Red)
 
 ![Experimental-Red](https://github.com/albertarielw/Drifting-Speckle/blob/main/experimental%20red.png)
+
+Theoretical (Red)
+
+![Theoretical-Red](https://github.com/albertarielw/Drifting-Speckle/blob/main/theory%20(simulated)%20red.png)
+
+Experimental (Green)
+
+![Experimental-Green](https://github.com/albertarielw/Drifting-Speckle/blob/main/experimental%20green.png)
+
+Theoretical (Green)
+
+![Theoretical-Green](https://github.com/albertarielw/Drifting-Speckle/blob/main/theory%20(simulated)%20green.png)
+
+# More
+
+To learn more about this research, you can download the presentation [here](https://github.com/albertarielw/Drifting-Speckle/blob/main/SYPT%202020%20Drifting%20Speckles.pptx)!
