@@ -15,3 +15,5 @@ Explain the phenomenon and investigate how the drift depends on relevant paramet
 Here are examples of experimental vs theorical (simulation) results:
 
 Experimental (Red)
+
+![Experimental-Red](https://github.com/albertarielw/Drifting-Speckle/blob/main/experimental%20red.png)
